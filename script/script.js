@@ -1,5 +1,5 @@
 const Config = {
-    name: "user",
+    name: "matt",
     scale: 1,
     Links: [
         [
@@ -17,14 +17,15 @@ const Config = {
                 ["youtube", "https://www.youtube.com"],
                 ["twitch", "https://www.twitch.tv"],
                 ["9anime", "https://www.9anime.to"],
+                ["thepiratebay", "https://proxybay.uno/"]
             ]
         ],
         [
-            "site",
+            "music",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["spotify", "hhttps://open.spotify.com/"],
+                ["youtube music", "https://music.youtube.com/"],
+                ["soundcloud", "https://soundcloud.com/"]
             ]
         ],
         [
@@ -32,8 +33,8 @@ const Config = {
             [
                 ["github", "https://www.github.com"],
                 ["gbatemp", "https://www.gbatemp.net"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["stackoverflow", "https://stackoverflow.com/questions"],
+                ["glitch", "https://glitch.com/"]
             ]
         ]
     ]
