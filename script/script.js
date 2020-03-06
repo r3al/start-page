@@ -3,32 +3,35 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "reddit",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["r/jailbreak", "https://www.reddit.com/r/jailbreak"],
+                ["r/unixporn", "https://www.reddit.com/r/unixporn"],
+                ["r/minecraft", "https://www.reddit.com/r/minecraft"]
+            ]
+        ],
+        [
+            "video",
+            [
+                ["netflix", "https://www.netflix.com"],
+                ["youtube", "https://www.youtube.com"],
+                ["twitch", "https://www.twitch.tv"],
+                ["9anime", "https://www.9anime.to"],
             ]
         ],
         [
             "site",
             [
                 ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
             ]
         ],
         [
-            "site",
+            "dev",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
+                ["github", "https://www.github.com"],
+                ["gbatemp", "https://www.gbatemp.net"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
             ]
